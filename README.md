@@ -1,6 +1,6 @@
 # New Project
 
 This project was created from local system.
-Created by Lovish JIndal
+Created by Lovish JIndal.
 
 
